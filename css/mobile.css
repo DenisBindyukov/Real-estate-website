@@ -15,7 +15,7 @@
 
 @media (max-width: 980px) {
     .top_wrap > div {
-        width:95;
+        width:95%;
     }
     .top_wrap .description {
         flex-basis:50%;
